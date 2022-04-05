@@ -1,3 +1,5 @@
 <?php 
-    //TODO: conexion de mysql
+    class mysql{
+        protected $dato = [];
+    }
 ?>
